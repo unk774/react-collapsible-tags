@@ -6,10 +6,16 @@
   "scripts": {
     "build": "rollup -c"
   },
+  "author": "unk774",
   "license": "MIT",
   "dependencies": {
     "@react-hook/resize-observer": "^1.2.6"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unk774/react-collapsible-tags"
+  },
+  "homepage": "https://github.com/unk774/react-collapsible-tags#readme",
   "peerDependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
