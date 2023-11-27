@@ -1,0 +1,7 @@
+/node_modules/
+/lib/
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/react-collapsible-tags.iml
+/.idea/vcs.xml
